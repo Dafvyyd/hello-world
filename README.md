@@ -1,2 +1,2 @@
 # hello-world
-learning and masterung
+learning and mastering
